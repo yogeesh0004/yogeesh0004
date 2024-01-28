@@ -1,4 +1,4 @@
-<p align="center"><a href="https://yogeesh0004.github.io"><img width="60%" height="30%" alt="Hello, I'm YOGEESH !!!" src="https://www.canva.com/design/DAF7MIgJvtg/view" /></a></p>
+<a href="https://yogeesh0004.github.io"><img width="100%" height="30%" alt="Hello, I'm YOGEESH !!!" src="Blue And Red Futuristic Game YouTube Channel Art.png" /></a>
 
 
 
@@ -33,7 +33,8 @@ Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from 
 <code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" alt="typescript" src="https://skillicons.dev/icons?i=html,css"></code>
 <code><img height="50" alt="react" src="https://skillicons.dev/icons?i=angular"></code>
-<code><img height="50" alt="graphql" src="https://skillicons.dev/icons?i=aws"></code>   
+<code><img height="50" alt="graphql" src="https://skillicons.dev/icons?i=aws"></code> 
+<br>
 <code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=flask"></code> 
 
 <br>
