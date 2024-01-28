@@ -11,7 +11,7 @@ Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from 
 
 | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mj8otrcvbw7pi6drwcfjvwh9c&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](/img/karaoke.svg) |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mj8otrcvbw7pi6drwcfjvwh9c&cover_image=true&theme=novatorem&show_offline=false&background_color=d5c3c3&interchange=false&bar_color=80bff9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
 
 
 
