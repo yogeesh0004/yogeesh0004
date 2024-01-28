@@ -1,4 +1,6 @@
-<p align="center"><a href="https://yogeesh0004.github.io"><img width="60%" height="30%" alt="Hello, I'm YOGEESH !!!" src="https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c" /></a></p>
+<p align="center"><a href="https://yogeesh0004.github.io"><img width="60%" height="30%" alt="Hello, I'm YOGEESH !!!" src="https://www.canva.com/design/DAF7MIgJvtg/view" /></a></p>
+
+
 
 <br />
 
@@ -17,7 +19,10 @@ Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from 
 **About me**
 
 - 💼 Upcoming Data Engineer at [Chubb India](https://www.chubb.com/us-en/)
-- 
+- 👨‍🎓 Vellore Institute Of Technology, Vellore
+- 📍  Hyderabad
+- 📄 <a href="https://drive.google.com/file/d/131xIPGGQSu5xit_ZeNAC2RyWgnRbQZPl/view?usp=drivesdk">Resume</a>
+- ✔  Currently learning about Big Data,Apache Spark, Machine learning model <code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=ai"></code>
 
 
 
