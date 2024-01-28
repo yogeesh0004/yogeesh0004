@@ -2,11 +2,17 @@
 
 <br />
 
+
+
 Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from Sivakasi,Tamil Nadu,India.
+
 
 | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+
 
 **About me**
 
@@ -43,6 +49,12 @@ Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from 
 
 <br />
 <br />
+
+<p align="center"> 
+  Visitor count<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/yogeesh0004/count.svg" />
+</p>
 
 <a href="https://www.instagram.com/yogeeshyoyo_/?next=%2F">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://skillicons.dev/icons?i=instagram">
