@@ -36,6 +36,8 @@ Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from 
 <code><img height="50" alt="graphql" src="https://skillicons.dev/icons?i=aws"></code> 
 <br>
 <code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=flask"></code> 
+<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=dash"></code>
+<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=fastapi"></code> 
 
 <br>
 <br>
