@@ -37,7 +37,8 @@ Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from 
 <br>
 <code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=flask"></code> 
 <code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=plotly-dash"></code>
-<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=fastapi"></code> 
+<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=fastapi"></code>
+<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=spark"></code>
 
 <br>
 <br>
