@@ -43,13 +43,7 @@ I'm passionate about **Data Engineering, Distributed Computing, Cloud Data Platf
 
 ### ⚡ Data Engineering & Big Data
 
-<p>
-  <code><img height="45" alt="Apache Spark" src="https://skillicons.dev/icons?i=apache"></code>
-  <code><img height="45" alt="Kafka" src="https://skillicons.dev/icons?i=kafka"></code>
-  <code><img height="45" alt="Hadoop" src="https://skillicons.dev/icons?i=hadoop"></code>
-</p>
-
-**PySpark · Spark SQL · Kafka · Hadoop · Hive · ETL · ELT · Data Pipelines · Distributed Computing · Data Modeling · Star Schema · Dimensional Modeling**
+**PySpark · Spark SQL · Apache Spark · Kafka · ETL · ELT · Data Pipelines · Batch Processing · Real-Time Streaming · Distributed Computing · Medallion Architecture · Data Modeling · Dimensional Modeling · Star Schema · Data Warehousing · Data Quality**
 
 ### ☁️ Cloud & Data Platforms
 
