@@ -161,7 +161,7 @@ September 2020 – May 2024
 
 ## 📄 Resume
 
-<a href="https://drive.google.com/file/d/131xIPGGQSu5xit_ZeNAC2RyWgnRbQZPl/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/1JiXsxKxqC-4aHDE9RTbErDh8XYiyMK8f/view?usp=sharing">
   <strong>View My Resume</strong>
 </a>
 
