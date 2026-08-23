@@ -1,78 +1,220 @@
-<a href="https://yogeesh0004.github.io"><img width="100%" height="30%" alt="Hello, I'm YOGEESH !!!" src="Blue And Red Futuristic Game YouTube Channel Art.png" /></a>
+# YOGEESH S — Data Engineer
 
-
+<a href="https://yogeesh0004.github.io">
+  <img width="100%" alt="Hello, I'm YOGEESH !!!" src="Blue And Red Futuristic Game YouTube Channel Art.png" />
+</a>
 
 <br />
 
+## 👋 Hello, I'm Yogeesh S
 
+I'm a **Data Engineer with 2+ years of experience** building scalable batch and real-time data pipelines using **Python, PySpark, Azure Databricks, Kafka, Snowflake, and Azure Synapse**.
 
-Hello folks, I'm yogeesh S and also a self-taught passionate Data Engineer from Sivakasi,Tamil Nadu,India.
+I'm passionate about **Data Engineering, Distributed Computing, Cloud Data Platforms, Spark Optimization, Generative AI, and Agentic AI solutions**.
 
+📍 Hyderabad, India
+🎓 B.Tech in Computer Science — Vellore Institute of Technology
+💼 Data Engineer at Chubb India
 
-| 🎵 Now Playing                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mj8otrcvbw7pi6drwcfjvwh9c&cover_image=true&theme=novatorem&show_offline=false&background_color=d5c3c3&interchange=false&bar_color=80bff9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
+---
 
+## 🚀 About Me
 
+* 💼 **Data Engineer @ Chubb India**
+* ⚡ 2+ years of experience in Data Engineering
+* 🔥 Building scalable **ETL/ELT and real-time streaming pipelines**
+* ☁️ Working with **Azure, AWS, Snowflake, Azure Databricks & Azure Synapse**
+* 🚀 Experienced in **PySpark, Spark SQL, Kafka and Medallion Architecture**
+* 🤖 Building **Agentic AI and GenAI solutions** using Claude LLM and OpenAI
+* 🧠 Interested in **Big Data, Distributed Systems, Data Architecture and Machine Learning**
+* 📊 Building data solutions that support enterprise analytics and reporting
 
+---
 
-**About me**
+## 🛠️ Tech Stack
 
-- 💼 Upcoming Data Engineer at [Chubb India](https://www.chubb.com/us-en/)
-- 👨‍🎓 Vellore Institute Of Technology, Vellore
-- 📍  Hyderabad
-- 📄 <a href="https://drive.google.com/file/d/131xIPGGQSu5xit_ZeNAC2RyWgnRbQZPl/view?usp=drivesdk">Resume</a>
-- ✔  Currently learning about Big Data, Apache Spark, Snowflake and Machine learning model.
+### 👨‍💻 Languages
 
+<p>
+  <code><img height="45" alt="Python" src="https://skillicons.dev/icons?i=python"></code>
+  <code><img height="45" alt="Java" src="https://skillicons.dev/icons?i=java"></code>
+  <code><img height="45" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"></code>
+</p>
 
-💻 **Tech Stack**
-<br>
-<br>
-<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=python"></code> 
-<code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" alt="typescript" src="https://skillicons.dev/icons?i=html,css"></code>
-<code><img height="50" alt="react" src="https://skillicons.dev/icons?i=angular"></code>
-<code><img height="50" alt="graphql" src="https://skillicons.dev/icons?i=aws"></code> 
-<br>
-<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=flask"></code> 
-<code><img height="50" alt="nodejs" src="https://skillicons.dev/icons?i=fastapi"></code>
+### ⚡ Data Engineering & Big Data
 
-<br>
-<br>
+<p>
+  <code><img height="45" alt="Apache Spark" src="https://skillicons.dev/icons?i=apache"></code>
+  <code><img height="45" alt="Kafka" src="https://skillicons.dev/icons?i=kafka"></code>
+  <code><img height="45" alt="Hadoop" src="https://skillicons.dev/icons?i=hadoop"></code>
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeesh0004&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yogeesh's github stats" /></a> | <a href="https://github.com/yogeesh0004/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeesh0004&layout=compact&theme=buefy&hide_border=true" /></a> |
+**PySpark · Spark SQL · Kafka · Hadoop · Hive · ETL · ELT · Data Pipelines · Distributed Computing · Data Modeling · Star Schema · Dimensional Modeling**
 
+### ☁️ Cloud & Data Platforms
 
-#### Top Repositories
+**Azure · Azure Databricks · Azure Synapse · Snowflake · AWS · ADLS · S3 · AWS Glue · Lambda**
 
+### 🔧 Data Engineering Tools
 
-<a href="https://github.com/yogeesh0004/github-readme-stats">
+**ADF · Informatica IICS · Airflow · Logstash · Elasticsearch · Jenkins · GitHub · MS SQL Server · Kibana**
+
+### 🤖 AI & Automation
+
+**Claude LLM · OpenAI API · Agentic AI · Prompt Engineering · Generative AI**
+
+### 📊 Analytics & BI
+
+**Power BI · Tableau · Streamlit**
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Chubb India — Data Engineer
+
+**Jul 2024 – Present**
+
+* Engineered secure, scalable Python ingestion pipelines for encrypted incremental datasets using **Azure Key Vault and Snowflake**, reducing manual effort by **80%** and improving ingestion SLA by **60%**.
+* Architected **Medallion Architecture (Bronze, Silver, Gold)** pipelines using **Azure Databricks, PySpark and Spark SQL**, improving downstream analytics performance by **40%**.
+* Developed high-throughput **Kafka + Python real-time streaming pipelines**, processing millions of events daily and loading transformed data into **Azure Synapse**.
+* Optimized distributed Spark workloads using **partitioning, caching and query optimization**, reducing execution time by **35%**.
+* Built an **Agentic AI solution using Claude LLM, Python and Snowflake** to automate legacy COBOL/JCL-to-SQL migration and modernization workflows, contributing to an estimated **$30M+ cost savings**.
+* Developed multi-agent validation pipelines incorporating **semantic analysis, SQL validation, automated testing and QA checks**.
+* Built end-to-end ETL pipelines in Azure Databricks to consolidate **Azure Log Analytics, Application Insights and ADLS** telemetry data for automated enterprise reporting.
+
+---
+
+### 🏢 Chubb India — Data Engineer Intern
+
+**Jan 2024 – Jun 2024**
+
+* Engineered a Python-based real-time log ingestion framework to extract logs from **Azure Log Analytics and stream them into Kafka**.
+* Designed distributed log processing pipelines using **Kafka, Logstash and Elasticsearch**, improving ingestion throughput by **35%**.
+* Developed **Kibana dashboards and alerting mechanisms**, reducing incident detection and resolution time by **25%**.
+* Containerized and productionized pipelines using **Kubernetes and Jenkins CI/CD**, enabling scalable and fault-tolerant deployments.
+
+---
+
+## 🤖 Featured Project
+
+### GenBI — Insight BI Assistant
+
+**FastAPI · OpenAI · Snowflake · Streamlit**
+
+* Built a **Generative AI-powered BI Assistant** that converts natural-language requests into optimized SQL queries.
+* Developed scalable **FastAPI REST APIs** for query orchestration, Snowflake integration and analytics processing.
+* Built interactive **Streamlit dashboards** for KPI monitoring, ad-hoc reporting and visualization.
+* Reduced reporting turnaround time by **50%**.
+
+---
+
+## 🏗️ Areas of Expertise
+
+```text
+Data Engineering
+├── ETL / ELT
+├── Batch Processing
+├── Real-Time Streaming
+├── Data Pipelines
+└── Data Quality
+
+Big Data
+├── Apache Spark
+├── PySpark
+├── Spark SQL
+├── Kafka
+└── Distributed Computing
+
+Cloud & Data Platforms
+├── Azure
+├── Azure Databricks
+├── Azure Synapse
+├── Snowflake
+└── AWS
+
+AI Engineering
+├── Agentic AI
+├── Generative AI
+├── Claude LLM
+├── OpenAI API
+└── Prompt Engineering
+```
+
+---
+
+## 📜 Certifications
+
+* ☁️ **AWS Cloud Practitioner**
+* ❄️ **Snowflake SnowPro Associate**
+* ⚡ **Databricks Fundamentals**
+
+---
+
+## 🎓 Education
+
+**Vellore Institute of Technology**
+B.Tech in Computer Science
+September 2020 – May 2024
+
+---
+
+## 📄 Resume
+
+<a href="https://drive.google.com/file/d/131xIPGGQSu5xit_ZeNAC2RyWgnRbQZPl/view?usp=drivesdk">
+  <strong>View My Resume</strong>
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/yogeesh0004">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeesh0004&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
+  </a>
+  <a href="https://github.com/yogeesh0004">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeesh0004&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## ⭐ Top Repositories
+
+<a href="https://github.com/yogeesh0004/CycleReservationSystemWEBSITE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeesh0004&repo=CycleReservationSystemWEBSITE&theme=buefy" />
 </a>
-<a href="https://github.com/yogeesh0004./yogeesh0004.github.io">
+
+<a href="https://github.com/yogeesh0004/webBasedChatbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeesh0004&repo=webBasedChatbot&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<p align="center"> 
-  Visitor count<br>
-  <br>
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yogeesh-s-412613260/">
+    <img width="32px" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/yogeeshyoyo_/">
+    <img width="32px" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+📧 **Email:** [yogeeshpavas@gmail.com](mailto:yogeeshpavas@gmail.com)
+
+---
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/yogeesh0004/count.svg" />
 </p>
 
-<a href="https://www.instagram.com/yogeeshyoyo_/?next=%2F">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://skillicons.dev/icons?i=instagram">
-</a>
-<a href="https://www.linkedin.com/in/yogeesh-s-412613260/">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://skillicons.dev/icons?i=linkedin">
-</a>
-
-
-
-
-
-
-
-
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
