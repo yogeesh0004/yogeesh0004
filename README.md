@@ -160,33 +160,6 @@ September 2020 – May 2024
 </a>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/yogeesh0004">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeesh0004&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
-  </a>
-  <a href="https://github.com/yogeesh0004">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeesh0004&layout=compact&theme=buefy&hide_border=true" />
-  </a>
-</p>
-
----
-
-## ⭐ Top Repositories
-
-<a href="https://github.com/yogeesh0004/CycleReservationSystemWEBSITE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeesh0004&repo=CycleReservationSystemWEBSITE&theme=buefy" />
-</a>
-
-<a href="https://github.com/yogeesh0004/webBasedChatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeesh0004&repo=webBasedChatbot&theme=buefy" />
-</a>
-
-<br />
-<br />
-
 ---
 
 ## 🤝 Connect With Me
@@ -195,19 +168,10 @@ September 2020 – May 2024
   <a href="https://www.linkedin.com/in/yogeesh-s-412613260/">
     <img width="32px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yogeeshyoyo_/">
-    <img width="32px" src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
 
 📧 **Email:** [yogeeshpavas@gmail.com](mailto:yogeeshpavas@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yogeesh0004/count.svg" />
-</p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
