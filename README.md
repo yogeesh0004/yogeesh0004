@@ -160,7 +160,6 @@ September 2020 – May 2024
 </a>
 
 ---
----
 
 ## 🤝 Connect With Me
 
